@@ -1,0 +1,4 @@
+I am Java Developer, learning Python
+
+Python is amazing.
+Python has multiple libraries to work with
